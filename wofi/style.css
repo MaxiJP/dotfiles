@@ -1,0 +1,31 @@
+window {
+	font-size: 30px;
+	font-family: "FOT-NewROdin Pro EB";
+	background-color: rgba(20, 20, 70, 0.7);
+	color: white;
+}
+
+#entry:selected {
+	background-color: rgba(150, 250, 150, 0.8);
+	color: black;
+}
+
+#entry {
+	padding: 0.35em;
+}
+
+#text:selected {
+	color: rgba(10, 10, 40, 1);
+}
+
+#input{
+	background-color: rgba(150, 150, 150, 0.5);
+	padding: 0.3em;
+	color: white;
+}
+
+#img {
+	padding: 4px;
+	border-radius: 10px;
+	background-color: #aaa;
+}

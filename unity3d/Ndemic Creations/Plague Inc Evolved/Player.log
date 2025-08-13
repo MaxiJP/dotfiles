@@ -1,0 +1,1305 @@
+Mono path[0] = '/home/max/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/Managed'
+Mono config path = '/home/max/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/MonoBleedingEdge/etc'
+Preloaded 'libMouseLib64.so'
+Preloaded 'libPlagueExternal.so'
+Preloaded 'libPlagueExternalCoop.so'
+Preloaded 'libPlagueExternalMP.so'
+Preloaded 'libsteam_api.so'
+Unable to preload the following plugins:
+	libMouseLib.so
+Display 0 'DP-2 32"': 2560x1440 (primary device).
+Unable to load player prefs
+Desktop is 2560 x 1440 @ 60 Hz
+Initialize engine version: 2019.4.9f1 (50fe8a171dd9)
+[Subsystems] Discovering subsystems at path /home/max/.local/share/Steam/steamapps/common/PlagueInc/PlagueIncEvolved_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Renderer: AMD Radeon RX 6600 (radeonsi, navi23, LLVM 20.1.8, DRM 3.63, 6.15.9-arch1-1)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 25.1.7-arch1.1
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_post_depth_coverage GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_sparse_texture2 GL_ARB_sparse_texture_
+clamp GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_filter_minmax GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex
+_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_image_storage_compression GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array G
+L_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_filter_minmax GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_shader_subgroup GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_const_bandwidth GL_MESA_texture_signed_rgba GL_
+NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 662594464
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.045 seconds
+OnLevelWasLoaded was found on LineManager
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed 
+(Filename:  Line: 369)
+
+Default vsync count 0
+requesting resize 1024 x 768
+resizing window to 1024 x 768
+Desktop is 2560 x 1440 @ 60 Hz
+The referenced script on this Behaviour (Game Object 'ReanimateZombies') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+UnloadTime: 1.241891 ms
+/HS/  PlagueExternalMP Plugin Handshake [9292] 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+/HS/  PlagueExternalCoop Plugin Handshake [9292] 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config file not detected creating default 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting resolution: 800x600 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SET ACTIVE LANGUAGE:  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Found native resolution: 1024x768 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Disease') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_World') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'Button_Context_Box') is missing! 
+(Filename:  Line: 334)
+
+System Info:
+Plague Inc. Evolved Version 1.21.0.3
+OS: Linux 6.15 Steam Runtime 2 64bit
+Processor: Intel(R) Core(TM) i5-4670 CPU @ 3.40GHz Count: 4
+Graphics: 0/AMD Radeon RX 6600 (radeonsi, navi23, LLVM 20.1.8, DRM 3.63, 6.15.9-arch1-1)/AMD/OpenGL 4.6 (Core Profile) Mesa 25.1.7-arch1.1/6731 Shader: 50
+Memory: system - 15931 graphics - 6731
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[S_API] SteamAPI_Init(): Loaded '/home/max/.local/share/Steam/linux64/steamclient.so' OK.
+Inconsistent value (1) for DRI_PRIME. Should be < 1 (GPU devices count). Using: 0
+Setting breakpad minidump AppID = 246620
+SteamInternal_SetMinidumpSteamID:  Caching Steam ID:  76561198355088170 [API loaded no]
+CheckResources () for CountryStateCamera (NoiseAndGrain) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for WorldCamera (Vignetting) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera_FrontEnd (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CheckResources () for DoubleHelixCamera_Cure (Blur) should be overwritten. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreenMP/HUDPanel/Anchor-Top/Coop_Panel/Coop/Content/Center/MP_CO_LabBar/NextLab/Tooltip/Tooltip Child" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_Cure/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_CTW/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease" 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "UIRoot/NGUICamera/HUDScreen_CTW/HUDPanel/Anchor-BottomLeft/Disease/Button_Disease/TooltipDetector" 
+(Filename:  Line: 0)
+
+requesting resize 800 x 600
+requesting fullscreen 800 x 600 at 0 Hz
+Setting up downscaled viewport at 800 x 600
+Desktop is 2560 x 1440 @ 60 Hz
+Desktop is 2560 x 1440 @ 60 Hz
+InitUIHandlers 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+InitUIHandlers 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+LOADED CLIP: PLAGUE_Intro_720_Q7_Q3 (UnityEngine.VideoClip) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+USER STATS RECEIVED CALLBACK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+User stats received for :76561198355088170 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CHECKING UNLOCKS FOR STEAM PLAYER: 76561198355088170 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: BACTERIA val: 2 next: VIRUS 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: BACTERIA val: 2 -> no mega achievement 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: VIRUS val: 1 next: FUNGUS 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: VIRUS val: 1 -> no brutal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: FUNGUS val: 1 next: NEURAX 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: PARASITE val: 1 next: PRION 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: PRION val: 1 next: NECROA 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: NANO_VIRUS val: -1 -> no normal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DiseaseType: NEURAX val: 1 next: PARASITE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+All scenarios achievement failed: mst complete artificial_organs 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no mega achievement 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no normal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cure DiseaseType: BACTERIA val: -1 -> no brutal cheats 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SET ACTIVE LANGUAGE: English 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SET ACTIVE LANGUAGE: English 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Number imported: 9075 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Data/Languages/en Line: 1 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 6846 - non-whitespace/newlines outside of tag
+Data/Languages/en Line: 6883 - non-whitespace/newlines outside of tag
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+BEGIN PLAYBACK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY VID 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SKIP! 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 1)
+
+Unloading 76254 unused Assets to reduce memory usage. Loaded Objects now: 252359.
+Total: 291.405714 ms (FindLiveObjects: 15.961218 ms CreateObjectMapping: 11.953257 ms MarkObjects: 221.634330 ms  DeleteObjects: 41.856362 ms)
+
+Set Active: local: FPS_60 options FPS_60 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting screen resolution for vid: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+requesting fullscreen 1920 x 1440 at 0 Hz
+Setting up downscaled viewport at 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution for vid: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+resizing window to 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+requesting fullscreen 1920 x 1440 at 0 Hz
+Setting up downscaled viewport at 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution for vid: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+requesting fullscreen 1920 x 1440 at 0 Hz
+Setting up downscaled viewport at 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution for vid: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+resizing window to 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution for vid: 1920x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 1920 x 1440
+requesting fullscreen 1920 x 1440 at 0 Hz
+Setting up downscaled viewport at 1920 x 1440
+Desktop is 2560 x 1440 @ 60 Hz
+Setting screen resolution for vid: 2560x1440 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+requesting resize 2560 x 1440
+Using native desktop resolution 2560 x 1440
+requesting fullscreen 2560 x 1440 at 0 Hz
+Desktop is 2560 x 1440 @ 60 Hz
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloaded Ndemic Server featured ID : 12001 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 9 out of 9 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 20 scen length: 20 buttons: 20 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SHOW SUBSCRIBED: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 0 scen length: 0 buttons: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying for filtered UGC Content : AccountID :394822442 ListType :k_EUserUGCList_Subscribed SortOrder :k_EUserUGCListSortOrder_SubscriptionDateDesc SearchText : Page Number :1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 7 out of 7 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloading UGC item for publish ID:1917400657 with priority:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EResultOK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EItemStateSubscribed, k_EItemStateInstalled /home/max/.local/share/Steam/steamapps/workshop/content/246620/1917400657 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Download Finished: /home/max/.local/share/Steam/steamapps/workshop/content/246620/1917400657 publishID: 1917400657 isLegacy: False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+scen subscribed = Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+bacteria 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VICTORY TECH IS:  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDING DISEASE[BACTERIA]: SPDisease FOR PLAYER: MakJagGames 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: Bubble_CountrySelect(Clone) (BonusObject) was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Reset dynamic SFX 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: NEMI in UK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:Custom, IsReplayActive:False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[NEMI] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloaded Ndemic Server featured ID : 12001 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 9 out of 9 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 20 scen length: 26 buttons: 26 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SHOW SUBSCRIBED: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 0 scen length: 0 buttons: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying for filtered UGC Content : AccountID :394822442 ListType :k_EUserUGCList_Subscribed SortOrder :k_EUserUGCListSortOrder_SubscriptionDateDesc SearchText : Page Number :1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 7 out of 7 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloading UGC item for publish ID:2005750199 with priority:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EResultOK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EItemStateSubscribed, k_EItemStateInstalled /home/max/.local/share/Steam/steamapps/workshop/content/246620/2005750199 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Download Finished: /home/max/.local/share/Steam/steamapps/workshop/content/246620/2005750199 publishID: 2005750199 isLegacy: False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+scen subscribed = Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+bacteria 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VICTORY TECH IS:  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDING DISEASE[BACTERIA]: SPDisease FOR PLAYER: MakJagGames 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Reset dynamic SFX 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: Bubble_CountrySelect(Clone) (BonusObject) was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: OPlauge in UK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:Custom, IsReplayActive:False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[OPlauge] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[1]Disease.EvolveTech[590021b2-31f2-4ee5-975c-4bf80cfcd55e] - free:False, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:590021b2-31f2-4ee5-975c-4bf80cfcd55e 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: siren 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[37]Disease.EvolveTech[cysts] - free:True, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[82]Disease.EvolveTech[insomnia] - free:True, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[abscesses] - free:False, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:abscesses 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[hyper_sensitivity] - free:False, cost:1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:hyper_sensitivity 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[paranoia] - free:False, cost:2 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:paranoia 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[nausea] - free:False, cost:3 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:nausea 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[coughing] - free:False, cost:4 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:coughing 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[rash] - free:False, cost:5 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:rash 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[sneezing] - free:False, cost:6 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:sneezing 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[vomiting] - free:False, cost:7 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:vomiting 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[pneumonia] - free:False, cost:8 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:pneumonia 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[sweating] - free:False, cost:9 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:sweating 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[skin_lesions] - free:False, cost:10 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:skin_lesions 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[anaemia] - free:False, cost:11 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:anaemia 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[147]Disease.EvolveTech[haemophilia] - free:False, cost:12 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:haemophilia 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[149]Disease.EvolveTech[0aecce27-6a23-40f1-bf43-44846dbd376d] - free:True, cost:13 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[194]Disease.EvolveTech[pulmonary_oedema] - free:False, cost:13 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:pulmonary_oedema 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: siren 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: ringsong 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: lastbreath 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: womancry 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[246]Disease.EvolveTech[necrosis] - free:False, cost:14 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:necrosis 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[251]Disease.EvolveTech[systemic_infection] - free:True, cost:15 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[251]Disease.EvolveTech[systemic_infection] - free:False, cost:15 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:systemic_infection 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OverflowException: Negating the minimum value of a twos complement number is invalid.
+  at System.Math.AbsHelper (System.Int32 value) [0x00012] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at System.Math.Abs (System.Int32 value) [0x00006] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at UnityEngine.Mathf.Abs (System.Int32 value) [0x00001] in <11c3ef05f0294860a73da09e45414fab>:0 
+  at CHUDScreen.SetDNAPoints (System.Int32 dna) [0x000a3] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CHUDScreen.Refresh () [0x00051] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CInterfaceManager.UpdateInterface () [0x00030] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at IGame.TriggerGameUpdate (System.Int32 seed) [0x0032b] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at IGame.GameUpdate () [0x00384] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CGameManager.GameUpdate () [0x0000d] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at Main.Update () [0x00000] in <11f436a3b6504a8d94f174973a908c96>:0 
+ 
+(Filename: <4756199cf52a4f14b33cdcc5659f782e> Line: 0)
+
+PLAY SFX: funeralbellsb 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: pilotchatter 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OverflowException: Negating the minimum value of a twos complement number is invalid.
+  at System.Math.AbsHelper (System.Int32 value) [0x00012] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at System.Math.Abs (System.Int32 value) [0x00006] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at UnityEngine.Mathf.Abs (System.Int32 value) [0x00001] in <11c3ef05f0294860a73da09e45414fab>:0 
+  at CHUDScreen.SetDNAPoints (System.Int32 dna) [0x000a3] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CHUDScreen.Refresh () [0x00051] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CInterfaceManager.UpdateInterface () [0x00030] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at IGame.TriggerGameUpdate (System.Int32 seed) [0x0032b] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at IGame.GameUpdate () [0x00384] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CGameManager.GameUpdate () [0x0000d] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at Main.Update () [0x00000] in <11f436a3b6504a8d94f174973a908c96>:0 
+ 
+(Filename: <4756199cf52a4f14b33cdcc5659f782e> Line: 0)
+
+OverflowException: Negating the minimum value of a twos complement number is invalid.
+  at System.Math.AbsHelper (System.Int32 value) [0x00012] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at System.Math.Abs (System.Int32 value) [0x00006] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at UnityEngine.Mathf.Abs (System.Int32 value) [0x00001] in <11c3ef05f0294860a73da09e45414fab>:0 
+  at CHUDScreen.SetDNAPoints (System.Int32 dna) [0x000a3] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CHUDScreen.Refresh () [0x00051] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CInterfaceManager.UpdateInterface () [0x00030] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at IGame.TriggerGameUpdate (System.Int32 seed) [0x0032b] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at IGame.GameUpdate () [0x00384] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CGameManager.GameUpdate () [0x0000d] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at Main.Update () [0x00000] in <11f436a3b6504a8d94f174973a908c96>:0 
+ 
+(Filename: <4756199cf52a4f14b33cdcc5659f782e> Line: 0)
+
+PLAY SFX: angrymob 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: crow 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: lastbreath 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OverflowException: Negating the minimum value of a twos complement number is invalid.
+  at System.Math.AbsHelper (System.Int32 value) [0x00012] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at System.Math.Abs (System.Int32 value) [0x00006] in <4756199cf52a4f14b33cdcc5659f782e>:0 
+  at UnityEngine.Mathf.Abs (System.Int32 value) [0x00001] in <11c3ef05f0294860a73da09e45414fab>:0 
+  at CHUDScreen.SetDNAPoints (System.Int32 dna) [0x000a3] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CHUDScreen.Refresh () [0x00051] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CInterfaceManager.UpdateInterface () [0x00030] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at (wrapper delegate-invoke) <Module>.invoke_void()
+  at IGame.TriggerGameUpdate (System.Int32 seed) [0x0032b] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at IGame.GameUpdate () [0x00384] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at CGameManager.GameUpdate () [0x0000d] in <11f436a3b6504a8d94f174973a908c96>:0 
+  at Main.Update () [0x00000] in <11f436a3b6504a8d94f174973a908c96>:0 
+ 
+(Filename: <4756199cf52a4f14b33cdcc5659f782e> Line: 0)
+
+[360]Disease.EvolveTech[0aecce27-6a23-40f1-bf43-44846dbd376d] - free:False, cost:16 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:OPlauge evolved:0aecce27-6a23-40f1-bf43-44846dbd376d 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+country: greenland dead: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GAME END, GameTime: 459 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+**EndGame** gameType:Custom didWin:True diseaseWon:OPlauge resultType:None unlocked:CUIManager+Unlock 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Successfully saved stats to the server. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: OPlauge in UK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:Custom, IsReplayActive:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[OPlauge] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Replaying 362 turns with seed 1203855488. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: childrenlaugh 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[1]Disease.EvolveTech[590021b2-31f2-4ee5-975c-4bf80cfcd55e] - free:False, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Clear Game Called 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Registering network view:SteamNetwork (INetworkView) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+*******************************************SteamManager.Initialized:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloaded Ndemic Server featured ID : 12001 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 9 out of 9 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 20 scen length: 26 buttons: 26 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Custom Scenario Vote successful 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: True/False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CoIssueQuery 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SHOW SUBSCRIBED: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AFTER Total ndemic responses: 0 scen length: 0 buttons: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying for filtered UGC Content : AccountID :394822442 ListType :k_EUserUGCList_Subscribed SortOrder :k_EUserUGCListSortOrder_SubscriptionDateDesc SearchText : Page Number :1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Querying complete. Metadata downloaded for 7 out of 7 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+REFRESH PANEL STATE: False/True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Downloading UGC item for publish ID:1093028171 with priority:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EResultOK 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+k_EItemStateSubscribed, k_EItemStateInstalled /home/max/.local/share/Steam/steamapps/workshop/content/246620/1093028171 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Download Finished: /home/max/.local/share/Steam/steamapps/workshop/content/246620/1093028171 publishID: 1093028171 isLegacy: False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+scen subscribed = Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+bacteria 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VICTORY TECH IS:  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDING DISEASE[BACTERIA]: SPDisease FOR PLAYER: MakJagGames 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Loading Scenario 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Number imported: 14 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+English Line: 7 - incomplete tag: ''
+ 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Reset dynamic SFX 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject: Bubble_CountrySelect(Clone) (BonusObject) was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: Sonic Virus in Morocco 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:Custom, IsReplayActive:False 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[Sonic Virus] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetUserBubble - bonusObject:  was  
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SetP2UserBubble - bonusObject: 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[2]Disease.EvolveTech[dad35a9d-f5ec-4055-8020-6e536c717e5c] - free:False, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Sonic Virus evolved:dad35a9d-f5ec-4055-8020-6e536c717e5c 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Tutorials (AurochDigital.PIETutorialSystem) 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[2]Disease.EvolveTech[47ead6ab-fc31-421f-8d32-14d04688e16a] - free:False, cost:1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+_______[0]RECORD TECH_EVOLVED - player.disease:Sonic Virus evolved:47ead6ab-fc31-421f-8d32-14d04688e16a 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[3]Disease.EvolveTech[3515547c-cbbf-449c-af51-4eec9724f7a4] - free:True, cost:15 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: heartmonitor 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+country: mexico dead: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+country: caribbean dead: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+GAME END, GameTime: 25 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Check Evo: True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+**EndGame** gameType:Custom didWin:False diseaseWon:null resultType:None unlocked:CUIManager+Unlock 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Successfully saved stats to the server. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVENT MANAGER CREATED 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IMPORTING DISEASE TECH 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INITIAL TRANSFER OF POP: Sonic Virus in Morocco 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+TRAIL PARTICLES INITIALISE 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+IGame.StartGame() - type:Custom, IsReplayActive:True 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+DIS[Sonic Virus] ---totalInf:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+INFO: Replaying 15 turns with seed 13639938. 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+SETTING INITIAL SPREADWAVES: 1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[2]Disease.EvolveTech[dad35a9d-f5ec-4055-8020-6e536c717e5c] - free:False, cost:0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[2]Disease.EvolveTech[47ead6ab-fc31-421f-8d32-14d04688e16a] - free:False, cost:1 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[3]Disease.EvolveTech[3515547c-cbbf-449c-af51-4eec9724f7a4] - free:True, cost:15 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: mosquito 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+country: mexico dead: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+country: caribbean dead: 0 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OUT OF TURNS 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+OUT OF TURNS 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+End of replay 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: lastbreath 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+PLAY SFX: crow 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7ff2b7fff6c0 -> priority: 1 
+  Thread -> id: 7ff2edfff6c0 -> priority: 1 
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+CNetworkSteam.OnTerminate 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+STEAM API SHUTDOWN 
+(Filename: ./Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
